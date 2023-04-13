@@ -2,3 +2,5 @@
 rice
 yam
 bread
+vegetable soup
+porridge
